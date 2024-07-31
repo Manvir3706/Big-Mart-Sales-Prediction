@@ -23,6 +23,8 @@ To run this project, you'll need to install the following dependencies. You can 
 3. Sales: Sales amount (target variable)
 4. Date: Date of the sales record
 5. Other features: Various features that may affect sales (e.g., item type, store location, promotions, etc.)
+
+   
 Note: The dataset file should be placed in the data/ directory.
 
 ## Model
